@@ -1,0 +1,22 @@
+{
+  "name": "vueproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youwd/VueProject.git"
+  },
+  "author": "youwd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youwd/VueProject/issues"
+  },
+  "homepage": "https://github.com/youwd/VueProject#readme"
+}
